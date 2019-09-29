@@ -4,9 +4,10 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import com.example.practice1mvp.R;
 import com.example.practice1mvp.interfaces.UserContract;
+import com.example.practice1mvp.model.User;
 import com.example.practice1mvp.presenter.UserPresenterImpl;
-
 import java.util.List;
+
 
 public class UserActivity extends AppCompatActivity implements UserContract.View {
 

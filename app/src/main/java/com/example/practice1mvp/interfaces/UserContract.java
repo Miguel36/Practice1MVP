@@ -1,5 +1,7 @@
 package com.example.practice1mvp.interfaces;
 
+import com.example.practice1mvp.model.User;
+
 import java.util.List;
 
 public interface UserContract {
