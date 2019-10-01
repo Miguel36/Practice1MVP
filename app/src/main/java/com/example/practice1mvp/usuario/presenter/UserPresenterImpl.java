@@ -1,6 +1,6 @@
-package com.example.practice1mvp.presenter;
+package com.example.practice1mvp.usuario.presenter;
 
-import com.example.practice1mvp.interfaces.UserContract;
+import com.example.practice1mvp.usuario.interfaces.UserContract;
 
 public class UserPresenterImpl implements UserContract.Presenter {
 

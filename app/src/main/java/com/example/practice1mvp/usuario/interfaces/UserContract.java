@@ -1,6 +1,6 @@
-package com.example.practice1mvp.interfaces;
+package com.example.practice1mvp.usuario.interfaces;
 
-import com.example.practice1mvp.model.User;
+import com.example.practice1mvp.usuario.model.User;
 
 import java.util.List;
 

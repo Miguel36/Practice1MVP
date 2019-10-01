@@ -1,11 +1,11 @@
-package com.example.practice1mvp.view;
+package com.example.practice1mvp.usuario.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import com.example.practice1mvp.R;
-import com.example.practice1mvp.interfaces.UserContract;
-import com.example.practice1mvp.model.User;
-import com.example.practice1mvp.presenter.UserPresenterImpl;
+import com.example.practice1mvp.usuario.interfaces.UserContract;
+import com.example.practice1mvp.usuario.model.User;
+import com.example.practice1mvp.usuario.presenter.UserPresenterImpl;
 import java.util.List;
 
 
