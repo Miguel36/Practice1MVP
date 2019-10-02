@@ -2,16 +2,13 @@ package com.example.practice1mvp.usuario.view;
 
 import android.view.View;
 import android.widget.TextView;
-
 import androidx.recyclerview.widget.RecyclerView;
-
 import com.example.practice1mvp.R;
 import com.example.practice1mvp.usuario.model.User;
 
-import java.util.List;
 
 public class RecyclerViewHolder extends RecyclerView.ViewHolder {
-    TextView idTextView, titleTextView, bodyTextView;
+    private TextView idTextView, titleTextView, bodyTextView;
 
     public RecyclerViewHolder(View itemView) {
         super(itemView);

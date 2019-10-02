@@ -5,7 +5,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
-
 import com.example.practice1mvp.R;
 import com.example.practice1mvp.usuario.model.User;
 import java.util.List;
