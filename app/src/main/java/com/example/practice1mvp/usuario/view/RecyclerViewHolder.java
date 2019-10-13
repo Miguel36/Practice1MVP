@@ -18,7 +18,7 @@ public class RecyclerViewHolder extends RecyclerView.ViewHolder {
     }
 
     public void binData(User user) {
-        idTextView.setText(user.getId());
+        idTextView.setText(user.getId() + "");
         titleTextView.setText(user.getTitle());
         bodyTextView.setText(user.getBody());
     }
